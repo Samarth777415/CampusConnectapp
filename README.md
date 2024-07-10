@@ -66,6 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Inspired by WhatsApp and other messaging platforms.
 - Thanks to the open-source community for providing the tools and libraries used in this project.
 
-## Contact
-
-For any queries or issues, please contact Samarth Gite at [your-email@example.com](mailto:your-email@example.com).
